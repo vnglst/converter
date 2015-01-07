@@ -21,10 +21,10 @@ config(['$routeProvider', function($routeProvider) {
     templateUrl: 'partials/stats.html',
     controller: 'AboutCtrl'
     });
-  $routeProvider.when('/features', {
-      templateUrl: 'partials/features.html',
-      controller: 'AboutCtrl'
-    });
+  // $routeProvider.when('/features', {
+  //     templateUrl: 'partials/features.html',
+  //     controller: 'AboutCtrl'
+  //   });
   $routeProvider.otherwise({
     redirectTo: '/word-to-line-rates'});
 }]);
