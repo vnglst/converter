@@ -5,10 +5,10 @@
 </div>
 </div>
 
-<!-- <script src="//ajax.googleapis.com/ajax/libs/angularjs/1.3.8/angular.min.js"></script> -->
-<!-- <script src="//ajax.googleapis.com/ajax/libs/angularjs/1.3.8/angular-route.min.js"></script> -->
-<script src="lib/angular.js"></script>
-<script src="lib/angular-route.js"></script>
+<script src="//ajax.googleapis.com/ajax/libs/angularjs/1.3.8/angular.min.js"></script>
+<script src="//ajax.googleapis.com/ajax/libs/angularjs/1.3.8/angular-route.min.js"></script>
+<!-- <script src="lib/angular.js"></script> -->
+<!-- <script src="lib/angular-route.js"></script> -->
 <script src="lib/angulartics.js"></script>
 <script src="lib/angulartics-ga.js"></script>
 <script src="js/app.js"></script>
