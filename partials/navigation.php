@@ -5,7 +5,7 @@
   </li>
   <li><a href="./#/stats/">STATS</a>
   </li>
-  <li><a href="features.html">FEATURES</a>
+  <li><a href="features.php">FEATURES</a>
   </li>
   <li><a href="https://twitter.com/vnglst">@vnglst</a>
   </li>

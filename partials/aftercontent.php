@@ -1,5 +1,5 @@
 <div class="col-xs-9 col-md-6 col-lg-7 footer">
-  <?php include 'partials/footer.html';?>
+  <?php include 'partials/footer.php';?>
 </div>
 
 </div>
