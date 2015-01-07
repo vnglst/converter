@@ -15,18 +15,23 @@
           <select class="form-control" name="Price per line" id="priceSelector"
           ng-model="dataModel.linePrice"
           ng-options="i for i in UIModel.selectableLinePrices"
-          ng-change="uponLinePriceChange()" />
+          ng-change="uponLinePriceChange()"
+          analytics-on
+          analytics-event="price changed, old line price: {{dataModel.linePrice}}"
+          analytics-category="price selected"/>
           </select>
         </div>
       </div>
-
       <div class="form-group">
         <label for="langSelector" class="col-xs-4 control-label">Source language</label>
         <div class="col-xs-8">
           <select id="langSelector" class="form-control" name="Source language"
           ng-model="dataModel.currentLanguage"
           ng-options="l.language for l in dataModel.languageData | orderBy:'language'"
-          ng-change="uponLanguageChange()" />
+          ng-change="uponLanguageChange()"
+          analytics-on
+          analytics-event="language changed, old language: {{dataModel.currentLanguage.language}}"
+          analytics-category="language selected"/>
           </select>
         </div>
       </div>

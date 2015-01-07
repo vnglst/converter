@@ -9,7 +9,7 @@ angular.module('conversionApp', [
   'conversionApp.directives',
   'angulartics', 'angulartics.google.analytics'
 ]).
-config(['$routeProvider', function($routeProvider) {
+config(['$routeProvider', '$analyticsProvider', function($routeProvider, $analyticsProvider) {
   $routeProvider.when('/word-to-line-rates', {
     templateUrl: 'partials/word-to-line-rates.html',
     controller: 'Word2LineCtrl'

@@ -15,7 +15,11 @@
           <select class="form-control" name="Price per word" id="priceSelector"
           ng-model="dataModel.wordPrice"
           ng-options="i for i in UIModel.selectableWordPrices"
-          ng-change="uponWordPriceChange()"/>
+          ng-change="uponWordPriceChange()"
+          analytics-on
+          analytics-event="price changed, old word price: {{dataModel.wordPrice}}"
+          analytics-category="price selected"
+          />
           </select>
         </div>
       </div>
@@ -26,7 +30,11 @@
           <select id="langSelector" class="form-control" name="Source language"
           ng-model="dataModel.currentLanguage"
           ng-options="l.language for l in dataModel.languageData | orderBy:'language'"
-          ng-change="uponLanguageChange()" />
+          ng-change="uponLanguageChange()"
+          analytics-on
+          analytics-event="language changed, old language: {{dataModel.currentLanguage.language}}"
+          analytics-category="language selected"
+          />
           </select>
         </div>
       </div>
