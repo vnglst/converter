@@ -6,7 +6,8 @@
 angular.module('conversionApp', [
   'ngRoute',
   'conversionApp.controllers',
-  'conversionApp.directives'
+  'conversionApp.directives',
+  'angulartics', 'angulartics.google.analytics'
 ]).
 config(['$routeProvider', function($routeProvider) {
   $routeProvider.when('/word-to-line-rates', {
