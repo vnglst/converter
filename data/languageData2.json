@@ -1,0 +1,221 @@
+[{
+  "language": "Bulgarian",
+  "charsPerWord": {
+    "Wolfram": 6.44,
+    "EU": 6.79,
+    "Wikipedia": 0,
+    "Technical": 0,
+    "Marketing brochure": 0,
+    "Financial (annual report)" : 0
+  }
+}, {
+  "language": "Czech",
+  "charsPerWord": {
+    "Wolfram": 6.54,
+    "EU": 6.70,
+    "Wikipedia": 0,
+    "Technical": 0,
+    "Marketing brochure": 0,
+    "Financial (annual report)" : 0
+  }
+}, {
+  "language": "Danish",
+  "charsPerWord": {
+    "Wolfram": 6.69,
+    "EU": 6.98,
+    "Wikipedia": 0,
+    "Technical": 0,
+    "Marketing brochure": 0,
+    "Financial (annual report)" : 0
+  }
+}, {
+  "language": "German",
+  "charsPerWord": {
+    "Wolfram Alpha": 7.26,
+    "EU (legal)": 7.36,
+    "Wikipedia article": 7.70,
+    "Technical manual": 7.46,
+    "Marketing brochure": 7.23,
+    "Financial (annual report)" : 7.79
+  }
+}, {
+  "language": "Greek",
+  "charsPerWord": {
+    "Wolfram": 6.51,
+    "EU": 6.07,
+    "Wikipedia": 0,
+    "Technical": 0,
+    "Marketing brochure": 0,
+    "Financial (annual report)" : 0
+  }
+}, {
+  "language": "English",
+  "charsPerWord": {
+    "Wolfram": 6.1,
+    "EU": 6.07,
+    "Wikipedia": 0,
+    "Technical": 0,
+    "Marketing brochure": 0,
+    "Financial (annual report)" : 6.54
+  }
+}, {
+  "language": "Spanish",
+  "charsPerWord": {
+    "Wolfram": 6.22,
+    "EU": 5.87,
+    "Wikipedia": 0,
+    "Technical": 0,
+    "Marketing brochure": 0,
+    "Financial (annual report)" : 0
+  }
+}, {
+  "language": "Estonian",
+  "charsPerWord": {
+    "Wolfram": 7.74,
+    "EU": 8.05,
+    "Wikipedia": 0,
+    "Technical": 0,
+    "Marketing brochure": 0,
+    "Financial (annual report)" : 0
+  }
+}, {
+  "language": "Finnish",
+  "charsPerWord": {
+    "Wolfram": 8.72,
+    "EU": 8.61,
+    "Wikipedia": 0,
+    "Technical": 0,
+    "Marketing brochure": 0,
+    "Financial (annual report)" : 0
+  }
+}, {
+  "language": "French",
+  "charsPerWord": {
+    "Wolfram": 6.13,
+    "EU": 6.28,
+    "Wikipedia": 0,
+    "Technical": 0,
+    "Marketing brochure": 0,
+    "Financial (annual report)" : 0
+  }
+}, {
+  "language": "Croation",
+  "charsPerWord": {
+    "Wolfram": 6.56,
+    "EU": 6.61,
+    "Wikipedia": 0,
+    "Technical": 0,
+    "Marketing brochure": 0,
+    "Financial (annual report)" : 0
+  }
+}, {
+  "language": "Hungarian",
+  "charsPerWord": {
+    "Wolfram": 7.79,
+    "EU": 7.55,
+    "Wikipedia": 0,
+    "Technical": 0,
+    "Marketing brochure": 0,
+    "Financial (annual report)" : 0
+  }
+}, {
+  "language": "Italian",
+  "charsPerWord": {
+    "Wolfram": 6.63,
+    "EU": 6.65,
+    "Wikipedia": 0,
+    "Technical": 0,
+    "Marketing brochure": 0,
+    "Financial (annual report)" : 0
+  }
+}, {
+  "language": "Lithuanian",
+  "charsPerWord": {
+    "Wolfram": 7.39,
+    "EU": 7.20,
+    "Wikipedia": 0,
+    "Technical": 0,
+    "Marketing brochure": 0,
+    "Financial (annual report)" : 0
+  }
+}, {
+  "language": "Latvian",
+  "charsPerWord": {
+    "Wolfram": 7.52,
+    "EU": 7.49,
+    "Wikipedia": 0,
+    "Technical": 0,
+    "Marketing brochure": 0,
+    "Financial (annual report)" : 0
+  }
+}, {
+  "language": "Dutch",
+  "charsPerWord": {
+    "Wolfram": 6.51,
+    "EU": 6.67,
+    "Wikipedia": 0,
+    "Technical": 0,
+    "Marketing brochure": 0,
+    "Financial (annual report)": 6.43
+  }
+}, {
+  "language": "Polish",
+  "charsPerWord": {
+    "Wolfram": 7.29,
+    "EU": 7.38,
+    "Wikipedia": 0,
+    "Technical": 0,
+    "Marketing brochure": 0,
+    "Financial (annual report)" : 0
+  }
+}, {
+  "language": "Portuguese",
+  "charsPerWord": {
+    "Wolfram": 6.15,
+    "EU": 6.02,
+    "Wikipedia": 0,
+    "Technical": 0,
+    "Marketing brochure": 0,
+    "Financial (annual report)" : 0
+  }
+}, {
+  "language": "Romanian",
+  "charsPerWord": {
+    "Wolfram": 6.54,
+    "EU": 6.46,
+    "Wikipedia": 0,
+    "Technical": 0,
+    "Marketing brochure": 0,
+    "Financial (annual report)" : 0
+  }
+}, {
+  "language": "Slovenian",
+  "charsPerWord": {
+    "Wolfram": 6.72,
+    "EU": 6.60,
+    "Wikipedia": 0,
+    "Technical": 0,
+    "Marketing brochure": 0,
+    "Financial (annual report)" : 0
+  }
+}, {
+  "language": "Swedish",
+  "charsPerWord": {
+    "Wolfram": 6.92,
+    "EU": 7.03,
+    "Wikipedia": 0,
+    "Technical": 0,
+    "Marketing brochure": 0,
+    "Financial (annual report)" : 0
+  }
+}, {
+  "language": "Russian",
+  "charsPerWord": {
+    "Wolfram": 7.36,
+    "EU": 0,
+    "Wikipedia": 0,
+    "Technical": 0,
+    "Marketing brochure": 0,
+    "Financial (annual report)" : 0
+  }
+}]

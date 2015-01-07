@@ -1,0 +1,35 @@
+<div class="row">
+  <div class="col-xs-12">
+    <h1 class="title">Language statistics</h1>
+  </div>
+</div>
+
+<div class="row">
+  <div class="col-xs-12">
+    <p>
+      This website converts per word to per line rates based (among others) on the language conversion metrics provided by
+      <a href="http://www.wolframalpha.com/input/?i=1000+words+in+English">Wolfram Alpha</a>.</p>
+    <p>The number of characters per word varies greatly per language, as can be seen in the table below. Wolfram Alpha calculates these values based on a statistical analysis of general texts and this might be different for texts in other areas. I therefore
+      advise anyone to use this tool with caution.</p>
+    <p>You can verify your own results by using the Microsoft Word count tool or a CAT tool (like MemoQ).</p>
+    <hr>
+    <table class="table table-hover">
+      <thead>
+        <tr>
+          <th data-field="language">Language</th>
+          <th ng-repeat="(source, val) in dataModel.currentLanguage.charsPerWord | orderBy: 'key'">{{source}}</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr ng-repeat="l in dataModel.languageData | orderBy:'language' ">
+          <td><a href="http://www.wolframalpha.com/input/?i=1000+words+in+{{ l.language }}">
+              {{ l.language }}</td>
+          <td ng-repeat="chars in l.charsPerWord | orderBy: 'key'">{{chars || "-" }}</td>
+        </tr>
+      </tbody>
+    </table>
+    <h5>Table: Characters per word for different kinds of texts</h5>
+
+    <p>...</p>
+  </div>
+</div>

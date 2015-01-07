@@ -1,0 +1,29 @@
+<div class="row oppositelink">
+  <a href="" ng-click="UIModel.showDetails = !UIModel.showDetails">Details
+    <span class="glyphicon glyphicon-play" aria-hidden="true"></span>
+  </a>
+</div>
+
+<!-- Assumptions -->
+<form class="form-horizontal well" role="form" ng-show="UIModel.showDetails">
+
+  <table class="table table-hover">
+    <thead>
+      <tr>
+        <th data-field="basedOn">Based on</th>
+        <th data-field="pricePerLine">Price per line*</th>
+        <th data-field="wordsPerLine">Assuming (for {{dataModel.currentLanguage.language}})</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr ng-repeat="price in dataModel.allLinePrices">
+        <td>{{ dataModel.allSources[$index] }}</td>
+        <td>{{ (price | currency : "€ " : 2) }}</td>
+        <td>{{ dataModel.allWordsPerLine[$index] | number : 1 }} words per line*</td>
+      </tr>
+    </tbody>
+  </table>
+
+  <assumptions-standardline></assumptions-standardline>
+
+</form>

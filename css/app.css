@@ -1,0 +1,76 @@
+/*---- Navigation ----- */
+.navigation {
+  padding-top: 50px;
+  font-family: 'Source Sans Pro', sans-serif;
+  /*background-color: blue;*/
+}
+.navigation .navbar {
+  text-decoration: none;
+  color: rgb(153, 153, 153);
+  cursor: pointer;
+  font-size: 16px;
+  font-stretch: normal;
+  font-weight: bold;
+  height: auto;
+  letter-spacing: 1.5px;
+  line-height: 36px;
+  text-transform: uppercase;
+}
+.navigation .navbar a{
+  color: rgb(153, 153, 153);
+}
+.navigation li {
+  display: block;
+}
+.navigation .links {
+  margin-top: 150px;
+  height: auto;
+  line-height: 36px;
+  margin-bottom: 1000px;
+}
+
+/*----- Calculator body ----*/
+.title {
+  margin-top: 75px;
+  margin-bottom: 50px;
+  color: rgb(51, 51, 51);
+  display: block;
+  font-family: 'Source Sans Pro', sans-serif;
+  font-size: 44px;
+  font-stretch: normal;
+  font-style: normal;
+  font-variant: normal;
+  font-weight: 900;
+}
+
+.oppositelink {
+  padding-right: 15px;
+  padding-bottom: 15px;
+  text-align: right;
+}
+
+.assumptionslabel {
+  font-style: italic;
+  color: rgb(153, 153, 153);
+}
+
+.calculator {
+  /*background-color: yellow;*/
+}
+
+.intro {
+  font-family: 'Source Sans Pro', sans-serif;
+  font-size: 26px;
+  font-stretch: normal;
+  font-style: italic;
+}
+
+/* --- Footer ---- */
+
+.footer p {
+  font-size: 12px;
+  margin-top: 15px;
+  padding-right: 20px;
+  color: rgb(153, 153, 153);
+  /*background-color: grey;*/
+}
