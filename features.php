@@ -4,6 +4,7 @@
 <head>
   <?php include 'partials/sharedhead.php'; ?>
   <title>Word to Line Rates | Current and future features</title>
+  <meta name="description" content="I made the Word to Lines Rates App as a side project and I'd love to get feedback from fellow translators. What features are still missing?">
 </head>
 
 <?php include 'partials/beforecontent.php'; ?>

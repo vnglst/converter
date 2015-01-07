@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: /sharedimg/
+Disallow: /de/vielen-dank-angebot/
+Disallow: /nl/bedankt-offerte/
