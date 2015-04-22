@@ -8,5 +8,5 @@
 <hr>
 <p>
   The Word to Line Rates Converter is released under <a href="https://creativecommons.org/licenses/by/4.0/deed.nl">CC license</a>. The Converter is made by
-  <a href="http://vangilst.de/en/">Koen van Gilst</a> and the source code is <a href="https://github.com/vnglst/converter">available on Github</a>.
+  <a href="http://vangilst.de/">Koen van Gilst</a> and the source code is   <a href="https://github.com/vnglst/converter">available on Github</a>.
 </p>
