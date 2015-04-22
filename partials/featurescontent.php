@@ -29,9 +29,9 @@
       <li style="text-decoration:line-through">Add short description to the footer</li>
       <li>Add more rates (per page, per hour & per day)</li>
       <li>Add more averages for different kinds of texts (for English & Dutch)</li>
+      <li>Add more averages French, Spanish and Italian</li>
       <li>Add target languages</li>
-      <li>Add USD <-> EUR conversion and other currencies</li>
-      <li>Make source code available on Github</li>
+      <li style="text-decoration:line-through">Make source code available on Github</li>
     </ul>
     <p>...</p>
   </div>

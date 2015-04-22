@@ -53,8 +53,8 @@
   "charsPerWord": {
     "Wolfram": 6.1,
     "EU": 6.07,
-    "Wikipedia": 0,
-    "Technical": 0,
+    "Wikipedia": 6.35,
+    "Technical": 6.23,
     "Marketing brochure": 0,
     "Financial (annual report)" : 6.54
   }
@@ -63,7 +63,7 @@
   "charsPerWord": {
     "Wolfram": 6.22,
     "EU": 5.87,
-    "Wikipedia": 0,
+    "Wikipedia": 6.24,
     "Technical": 0,
     "Marketing brochure": 0,
     "Financial (annual report)" : 0
@@ -93,7 +93,7 @@
   "charsPerWord": {
     "Wolfram": 6.13,
     "EU": 6.28,
-    "Wikipedia": 0,
+    "Wikipedia": 6.30,
     "Technical": 0,
     "Marketing brochure": 0,
     "Financial (annual report)" : 0
@@ -123,7 +123,7 @@
   "charsPerWord": {
     "Wolfram": 6.63,
     "EU": 6.65,
-    "Wikipedia": 0,
+    "Wikipedia": 6.76,
     "Technical": 0,
     "Marketing brochure": 0,
     "Financial (annual report)" : 0
@@ -153,7 +153,7 @@
   "charsPerWord": {
     "Wolfram": 6.51,
     "EU": 6.67,
-    "Wikipedia": 0,
+    "Wikipedia": 6.79,
     "Technical": 0,
     "Marketing brochure": 0,
     "Financial (annual report)": 6.43
